@@ -1,6 +1,10 @@
 "Linha base do projeto" 
 "segunda linha projeto" 
-"atualiza‡Æo relacionada … feature" 
+"atualizaï¿½ï¿½o relacionada ï¿½ feature" 
 "Lucas Cardoso"
 "Thiago Carvalho	
-"João Pedro Nascimento"
+"Joï¿½o Pedro Nascimento"
+"Thiago Carvalho"
+"Pedro Isaac"
+"Daniel Carvalho" 
+"Gabriel Farias"

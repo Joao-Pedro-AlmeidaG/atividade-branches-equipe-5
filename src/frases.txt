@@ -3,3 +3,5 @@
 "atualiza‡Æo relacionada … feature" 
 "Lucas Cardoso"
 "Thiago Carvalho"
+"Daniel Carvalho"
+teste

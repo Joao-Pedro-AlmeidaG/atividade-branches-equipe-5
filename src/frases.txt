@@ -2,6 +2,8 @@
 "segunda linha projeto" 
 "atualiza��o relacionada � feature" 
 "Lucas Cardoso"
+"Thiago Carvalho	
+"Jo�o Pedro Nascimento"
 "Thiago Carvalho"
 "Pedro Isaac"
 "Daniel Carvalho" 

@@ -1,3 +1,4 @@
 "Linha base do projeto" 
 "segunda linha projeto" 
 "atualiza‡Æo relacionada … feature" 
+"Lucas Cardoso"

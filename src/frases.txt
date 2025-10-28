@@ -3,5 +3,6 @@
 "atualiza��o relacionada � feature" 
 "Lucas Cardoso"
 "Thiago Carvalho"
+"Pedro Isaac"
 "Daniel Carvalho" 
 "Gabriel Farias"

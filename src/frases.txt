@@ -1,7 +1,7 @@
 "Linha base do projeto" 
 "segunda linha projeto" 
-"atualiza‡Æo relacionada … feature" 
+"atualizaï¿½ï¿½o relacionada ï¿½ feature" 
 "Lucas Cardoso"
 "Thiago Carvalho"
-"Daniel Carvalho"
-teste
+"Daniel Carvalho" 
+

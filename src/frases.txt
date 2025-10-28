@@ -2,4 +2,5 @@
 "segunda linha projeto" 
 "atualiza‡Æo relacionada … feature" 
 "Lucas Cardoso"
-"Thiago Carvalho"
+"Thiago Carvalho	
+"João Pedro Nascimento"

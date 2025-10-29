@@ -10,3 +10,4 @@
 "Gabriel Farias"
 "Pedro Vidal"
 "Clara Araújo"
+"Clara Araujo"

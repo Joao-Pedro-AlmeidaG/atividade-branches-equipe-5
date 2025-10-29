@@ -9,3 +9,4 @@
 "Daniel Carvalho" 
 "Gabriel Farias"
 "Pedro Vidal"
+"Clara Araujo"
